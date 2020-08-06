@@ -6,4 +6,4 @@ HOW TO PLAY THE GAME: This is a two player game in which 9 boxes are there and y
                       keep appearing on the boxes alternatively on choosing them. The player that has 3 contiguous rows or columns or in any diagonal 
                       first, will be declaired the winner.
                       
-                    HEY NO COMPARISONS, THIS IS MY FIRST GAME. ENJOY.
+                    HEY! NO COMPARISONS, THIS IS MY FIRST GAME. ENJOY.
